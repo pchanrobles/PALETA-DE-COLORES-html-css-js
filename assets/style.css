@@ -38,3 +38,8 @@ footer {
     color: white;
     padding: 15px;
 }
+
+#color {
+    width: 100px;
+    height: 75px;
+}
